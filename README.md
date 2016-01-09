@@ -7,7 +7,9 @@ What you can do :
 register as a basic user (devise)
 post pins
   - with images (Paperclip)
-
+vote (acts_as_votable)
+smooth redisplay of pins with (masonry) and a bit of js
+and (bootstrap sass) for styling
 
 
 The next step are :
