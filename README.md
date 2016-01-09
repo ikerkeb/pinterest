@@ -1,24 +1,23 @@
+Pinterest
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+A really basic implementation of Pinterest that i will work only on my free time
+I did it for fun, so feel free to use or do whatever you want.
 
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://pinterest-bimofr.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
+What you can do :
+register as a basic user (devise)
+post pins
+  - with images (Paperclip)
 
 
-## Support & Documentation
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+The next step are :
+- "Unlike" posts
+- list all liked post in a dedicated section
+- implement comment on pins
+- create categories for pins
+
+
+aaaand ... i think that's it. I may add some more if i figure out cool features to add
+
+
+Love !
